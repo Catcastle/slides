@@ -11,4 +11,4 @@ function clearActiveClasses() {
     slides.forEach((slide) =>{slide.classList.remove('active')}
     )}
 }
-slidesPlugin(4)
+slidesPlugin(6)
